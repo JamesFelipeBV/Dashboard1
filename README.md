@@ -1,4 +1,4 @@
-# Dashboard1
+# README
 El Dashboard se usó para una tienda de ropa donde se pueda presentar el vestuario que ofrecen por categorías, 
 como zapatos, pantalón y camisetas, por esto cada prenda viene con imagen descripción y precio, cada uno
 viene con una pseudo clase hover para que sea más dinámico cuando seleccionen cada opción, está dividido en 
